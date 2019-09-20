@@ -1,0 +1,2 @@
+# FRONTEND-JS-DAG-2
+Dag 2 om JS
